@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import Login from './components/login'
 import Head from './components/header'
+import Footer from './components/footer'
 
 function App() {
 
@@ -44,6 +45,8 @@ Ut lobortis ex id sollicitudin sollicitudin. Mauris malesuada gravida commodo. V
 Aliquam rhoncus iaculis leo, a fringilla arcu hendrerit at. Mauris tristique posuere lorem. Donec gravida vulputate ante. Nam ac sodales nibh. Curabitur enim arcu, vehicula et congue feugiat, efficitur et leo. Cras vulputate libero in lorem consectetur aliquet. Morbi id pretium nunc. Praesent vitae vulputate purus. Integer mauris dolor, bibendum et libero id, dignissim vehicula lectus. Ut a erat urna. Aliquam erat volutpat. Duis a metus quis enim scelerisque lacinia ultricies in odio. Praesent nec leo tempus, convallis elit in, mollis diam. Mauris at cursus lacus. Aliquam pharetra ullamcorper arcu in ultrices. Curabitur pulvinar sit amet nibh quis bibendum.
 
 Etiam hendrerit in elit ut laoreet. Integer pretium dui quis laoreet tincidunt. Sed viverra sem quis velit venenatis vestibulum. Donec non felis fermentum nibh placerat condimentum quis at ipsum. Duis a nibh euismod, consequat enim eu, vestibulum enim. Proin convallis tristique eros non porttitor. Aliquam pharetra, urna sed lacinia dictum, tortor neque feugiat risus, a elementum velit lectus eget ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut laoreet sagittis metus, sit amet laoreet nibh dignissim ut. Nam sapien neque, congue eu dapibus ut, pharetra sit amet mi. Morbi interdum ipsum eget nisi tempor rhoncus. Nulla nec lectus placerat, interdum libero in, sollicitudin augue.</p>
+
+<Footer/>
     </>
   )
 }
